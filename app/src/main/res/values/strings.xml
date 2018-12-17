@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string-array name="category_array">
+        <item>FreeTime</item>
+        <item>Work</item>
+        <item>Study</item>
+        <item>WorkOut</item>
+        <item>Car</item>
+        <item>Payment</item>
+    </string-array>
+    <string name="title_activity_float">Float</string>
+    <string name="title_activity_tasks">Tasks</string>
+    <string name="title_activity_custom">Custom</string>
+    <string name="category">category</string>
+    <string name="title">title</string>
+    <string name="free">free</string>
+</resources>
